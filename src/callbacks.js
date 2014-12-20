@@ -1,3 +1,4 @@
+// This is a simple comment for the callback.js
 define([
 	"./core",
 	"./var/rnotwhite"
