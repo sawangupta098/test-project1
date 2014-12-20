@@ -1,3 +1,4 @@
+// This is the ajax.js file
 define([
 	"./core",
 	"./var/rnotwhite",
